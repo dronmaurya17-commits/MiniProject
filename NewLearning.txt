@@ -1,0 +1,6 @@
+User Post likh paengye 
+users create karne hai
+login and register 
+logout
+post creation
+post delete

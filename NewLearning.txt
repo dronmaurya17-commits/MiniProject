@@ -4,3 +4,10 @@ login and register
 logout
 post creation
 post delete
+
+(1)To operate this 
+   Step_1:-Run the server 
+   Step_2:-Go to local host 3000 create the user by filling the details
+   Step_3:-It will navigate to the register route 
+   Step_4:-Navigate yourself from the register route to login route 
+   Step_5:-This wll navigate you to the profile route 
